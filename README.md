@@ -1,5 +1,5 @@
 # Project5-IPND_Titanic
-Data analysis project for intro to programming online course regarding Titanic disaster 
+Data analysis project for intro to programming online course regarding Titanic disaster. Be sure to download the input folder as the .ipynb file for the code requires that in order to view the results of all the cells. In order to view the report, download project-submissionv2.html.  
 
 VARIABLE DESCRIPTIONS:
 survival        Survival
